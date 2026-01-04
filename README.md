@@ -1,8 +1,10 @@
 # Web MedCrawler Code
 
 #Overview
+
 This project is a Python-based web crawler that extracts structured data from online sources.  
-For demonstration purposes, the dataset currently uses **pseudo names** (e.g., Dr. Alice Petri, Dr. Oscar Lyons).  
+For demonstration purposes, the dataset currently uses //pseudo names (Example Dr. Alice Petri, Dr. Oscar Lyons).  
+
 # Features
 1 Crawl and scrape data from target websites
 
